@@ -16,7 +16,7 @@ TARGET_HAS_6GB_RAM := true
 TARGET_SCREEN_DENSITY := 420
 
 # Kernel
-TARGET_KERNEL_CONFIG := tama_aurora_defconfig
+TARGET_KERNEL_CONFIG := tama_aurora_kddi_defconfig
 
 # HIDL
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
