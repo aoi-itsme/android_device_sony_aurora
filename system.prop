@@ -12,3 +12,10 @@ ro.semc.version.sw=1311-7919
 ro.semc.version.sw_revision=52.1.A.3.49
 ro.semc.version.sw_type=user
 ro.semc.version.sw_variant=GLOBAL-C2
+
+# InfinityX
+ro.product.marketname=Xperia XZ2 Premium
+ro.infinity.soc=Snapdragon 845
+ro.infinity.battery=3540mAh
+ro.infinity.display=2160 × 3840, 60 Hz
+ro.infinity.camera=19MP + 12MP | 13 MP
